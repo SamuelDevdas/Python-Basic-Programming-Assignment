@@ -1,1 +1,2 @@
-# Contains basic Python programming exercises and solutions worked out by myself as a beginner
+# Basic Python programming problems worked out by myself as a beginner. 
+## (Written in Word files)
